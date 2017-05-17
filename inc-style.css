@@ -109,7 +109,8 @@ ul#primary-menu > li.menu-item > a {
 ul#primary-menu > li.menu-item > ul.sub-menu {
     display: none;
     box-shadow: none;
-    background-color: rgba(255,255,255,1);
+
+
     color: #fff;
     top: 34px;
     left: 0;
