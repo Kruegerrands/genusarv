@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="010bb671-adf5-4123-95a8-80f03e64ba20" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc-style.css" afterPath="$PROJECT_DIR$/inc-style.css" />
-    </list>
+    <list default="true" id="010bb671-adf5-4123-95a8-80f03e64ba20" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13322">
-              <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+            <state relative-caret-position="774">
+              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -34,18 +31,18 @@
       <file leaf-file-name="slicknav.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/slicknav.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="774">
-              <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+            <state relative-caret-position="22">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inc-style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="inc-style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="121" column="0" lean-forward="true" selection-start-line="107" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+            <state relative-caret-position="22">
+              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -123,7 +120,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Kungen/Documents/GitHub/genusarv/slicknav.css&#10;ul.s&#9;null&#9;null&#10;pri&#9;null&#9;null&#10;ul&#9;FILE&#9;file://C:/Users/Kungen/Documents/GitHub/genusarv/.idea/modules.xml&#10;ul.slicknav&#9;null&#9;null&#10;110&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="site&#9;null&#9;null&#10;ul.s&#9;null&#9;null&#10;pri&#9;null&#9;null&#10;ul&#9;FILE&#9;file://C:/Users/Kungen/Documents/GitHub/genusarv/.idea/modules.xml&#10;ul.slicknav&#9;null&#9;null&#10;110&#9;null&#9;null" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -139,12 +136,12 @@
       <option name="presentableId" value="Default" />
       <updated>1494940161414</updated>
       <workItem from="1494940162676" duration="655000" />
-      <workItem from="1495016959604" duration="1003000" />
+      <workItem from="1495016959604" duration="3177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1658000" />
+    <option name="totallyTimeSpent" value="3832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1924" height="1048" extended-state="0" />
@@ -196,26 +193,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/inc-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13322">
-          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+        <state relative-caret-position="22">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/slicknav.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+        <state relative-caret-position="22">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc-style.css">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="121" column="0" lean-forward="true" selection-start-line="107" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+        <state relative-caret-position="774">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
